@@ -1,0 +1,426 @@
+{
+  "products": [
+      {
+        "id": 1,
+        "name": "marimas",
+        "price": 3250,
+        "price_2":50000,
+        "image": "img/beef-burger.png",
+        "variant": [
+          {
+            "name": "pcs",
+            "price": 1000
+          },
+          {
+            "name": "renteng",
+            "price": 12000
+          },
+          {
+            "name": "dus",
+            "price": 22000
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Sandwich",
+        "price": 32000,
+        "price_2":50000,
+        "image": "img/sandwich.png",
+        "options": null,
+        "variant": [
+          {
+            "name": "reguler",
+            "options":
+            [
+              {
+                "name": "pcs",
+                "price": 1000
+              },
+              {
+                "name": "renteng",
+                "price": 12000
+              },
+              {
+                "name": "dus",
+                "price": 22000
+              }
+            ]
+          }, 
+          {
+            "name": "bkl",
+            "options":
+              {
+                "pcs": 12000,
+                "renteng": 12000,
+                "dus": 12000
+              }
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Sawarma",
+        "price": 30000,
+        "price_2":50000,
+        "image": "img/sawarma.png",
+        "variant": [
+          {
+            "name": "reguler",
+            "options":
+            [
+              {
+                "name": "pcs",
+                "price": 1000
+              },
+              {
+                "name": "renteng",
+                "price": 12000
+              },
+              {
+                "name": "dus",
+                "price": 22000
+              }
+            ]
+          }, 
+          {
+            "name": "bkl",
+            "options":
+              {
+                "pcs": 12000,
+                "renteng": 12000,
+                "dus": 12000
+              }
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Croissant",
+        "price": 16000,
+        "price_2":50000,
+        "image": "img/croissant.png",
+        "options": null,
+        "variant": [
+          {
+            "name": "reguler",
+            "options":
+            [
+              {
+                "name": "pcs",
+                "price": 1000
+              },
+              {
+                "name": "renteng",
+                "price": 12000
+              },
+              {
+                "name": "dus",
+                "price": 22000
+              }
+            ]
+          }, 
+          {
+            "name": "bkl",
+            "options":
+              {
+                "pcs": 12000,
+                "renteng": 12000,
+                "dus": 12000
+              }
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Cinnamon Roll",
+        "price": 20000,
+        "price_2":50000,
+        "image": "img/cinnamon-roll.png",
+        "options": null,
+        "variant": [
+          {
+            "name": "reguler",
+            "options":
+            [
+              {
+                "name": "pcs",
+                "price": 1000
+              },
+              {
+                "name": "renteng",
+                "price": 12000
+              },
+              {
+                "name": "dus",
+                "price": 22000
+              }
+            ]
+          }, 
+          {
+            "name": "bkl",
+            "options":
+              {
+                "pcs": 12000,
+                "renteng": 12000,
+                "dus": 12000
+              }
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Choco Glaze Donut with Peanut",
+        "price": 10000,
+        "price_2":50000,
+        "image": "img/choco-glaze-donut-peanut.png",
+        "options": null,
+        "variant": [
+          {
+            "name": "reguler",
+            "options":
+            [
+              {
+                "name": "pcs",
+                "price": 1000
+              },
+              {
+                "name": "renteng",
+                "price": 12000
+              },
+              {
+                "name": "dus",
+                "price": 22000
+              }
+            ]
+          }, 
+          {
+            "name": "bkl",
+            "options":
+              {
+                "pcs": 12000,
+                "renteng": 12000,
+                "dus": 12000
+              }
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Choco Glazed Donut",
+        "price": 10000,
+        "price_2":50000,
+        "image": "img/choco-glaze-donut.png",
+        "options": null,
+        "variant": [
+          {
+            "name": "reguler",
+            "options":
+            [
+              {
+                "name": "pcs",
+                "price": 1000
+              },
+              {
+                "name": "renteng",
+                "price": 12000
+              },
+              {
+                "name": "dus",
+                "price": 22000
+              }
+            ]
+          }, 
+          {
+            "name": "bkl",
+            "options":
+              {
+                "pcs": 12000,
+                "renteng": 12000,
+                "dus": 12000
+              }
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Red Glazed Donut",
+        "price": 10000,
+        "price_2":50000,
+        "image": "img/red-glaze-donut.png",
+        "variant": [
+          {
+            "name": "reguler",
+            "options":
+            [
+              {
+                "name": "pcs",
+                "price": 1000
+              },
+              {
+                "name": "renteng",
+                "price": 12000
+              },
+              {
+                "name": "dus",
+                "price": 22000
+              }
+            ]
+          }, 
+          {
+            "name": "bkl",
+            "options":
+              {
+                "pcs": 12000,
+                "renteng": 12000,
+                "dus": 12000
+              }
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Iced Coffee Latte",
+        "price": 25000,
+        "price_2":50000,
+        "image": "img/coffee-latte.png",
+        "variant": [
+          {
+            "name": "reguler",
+            "options":
+            [
+              {
+                "name": "pcs",
+                "price": 1000
+              },
+              {
+                "name": "renteng",
+                "price": 12000
+              },
+              {
+                "name": "dus",
+                "price": 22000
+              }
+            ]
+          }, 
+          {
+            "name": "bkl",
+            "options":
+              {
+                "pcs": 12000,
+                "renteng": 12000,
+                "dus": 12000
+              }
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Iced Chocolate",
+        "price": 20000,
+        "price_2":50000,
+        "image": "img/ice-chocolate.png",
+        "variant": [
+          {
+            "name": "reguler",
+            "options":
+            [
+              {
+                "name": "pcs",
+                "price": 1000
+              },
+              {
+                "name": "renteng",
+                "price": 12000
+              },
+              {
+                "name": "dus",
+                "price": 22000
+              }
+            ]
+          }, 
+          {
+            "name": "bkl",
+            "options":
+              {
+                "pcs": 12000,
+                "renteng": 12000,
+                "dus": 12000
+              }
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Iced Tea",
+        "price": 15000,
+        "price_2":50000,
+        "image": "img/ice-tea.png",
+        "variant": [
+          {
+            "name": "reguler",
+            "options":
+            [
+              {
+                "name": "pcs",
+                "price": 1000
+              },
+              {
+                "name": "renteng",
+                "price": 12000
+              },
+              {
+                "name": "dus",
+                "price": 22000
+              }
+            ]
+          }, 
+          {
+            "name": "bkl",
+            "options":
+              {
+                "pcs": 12000,
+                "renteng": 12000,
+                "dus": 12000
+              }
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Iced Matcha Latte",
+        "price": 22000,
+        "price_2":50000,
+        "image": "img/matcha-latte.png",
+        "variant": [
+          {
+            "name": "reguler",
+            "options":
+            [
+              {
+                "name": "pcs",
+                "price": 1000
+              },
+              {
+                "name": "renteng",
+                "price": 12000
+              },
+              {
+                "name": "dus",
+                "price": 22000
+              }
+            ]
+          }, 
+          {
+            "name": "bkl",
+            "options":
+              {
+                "pcs": 12000,
+                "renteng": 12000,
+                "dus": 12000
+              }
+          }
+        ]
+      }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "products": [
+        {
+          "id": 1,
+          "name": "Beef Burger",
+          "price": 45000,
+          "price_2":50000,
+          "image": "img/beef-burger.png",
+          "options": null
+        },
+        {
+          "id": 2,
+          "name": "Sandwich",
+          "price": 32000,
+          "price_2":50000,
+          "image": "img/sandwich.png",
+          "options": null
+        }
+    ]
+  }
